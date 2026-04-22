@@ -88,3 +88,5 @@ public class CajeroAutomatico {
         sc.close();
     }
 }
+
+//Codigo de un cajero automatico basico, con opciones para consultar saldo, retirar y transferir dinero.
